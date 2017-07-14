@@ -1,5 +1,6 @@
 |Typ|Name|Beschreibung|Limitierung
 |---|---|---|---|
+|<span class="blue">A</span>|[Blood Den](http://de.sistersprobe.wikia.com/wiki/Blood_Den)|Faction: Dark Blood + DED 5/10 [Blood Raider Psychotropics Depot](http://de.sistersprobe.wikia.com/wiki/Blood_Raider_Psychotropics_Depot)||
 |<span class="orange">S</span>|[Blood Lookout](http://de.sistersprobe.wikia.com/wiki/Blood_Lookout)|Bunker zerstören -> Escalation: [Following the Blood](http://de.sistersprobe.wikia.com/wiki/Following_the_Blood)||
 |<span class="blue">A</span>|[Blood Hideaway](http://de.sistersprobe.wikia.com/wiki/Blood_Hideaway)|Faction: Dark Blood||
 |<span class="orange">S</span>|[Blood Hideout](http://de.sistersprobe.wikia.com/wiki/Blood_Hideout)|Chapel zerstören -> Faction: Dark Blood + Escalation: [Frentex](http://de.sistersprobe.wikia.com/wiki/Frentex)||
