@@ -17,4 +17,4 @@
 |<span class="orange">S</span>|[Mul-Zatah Monastery](http://de.sistersprobe.wikia.com/wiki/Mul-Zatah_Monastery)|<span class="green">DED 4/10</span> 1. Raum: Nur Schiffe abschießen, Overseer looten 2. Raum Inner Sanctum zerstören (Achtung: Neut und Stasis), Bookmark und raus|||
 |<span class="orange">S</span>|[Rogue Drone Asteroid Infestation](http://de.sistersprobe.wikia.com/wiki/Rogue_Drone_Asteroid_Infestation)|<span class="green">DED 3/10</span> sehr selten guten Loot|||
 
-Limitierungen bedeuten, dass bei es mehrere Varianten der Site gibt, laut Dokumentation ist der Faction aber nur in einer Variante, der <span class="green">Grünen</span>, <span class="red">Rot</span> kann man ignorieren.
+Limitierungen bedeuten das es mehrere Varianten der Site gibt, laut Dokumentation ist der Faction aber nur in einer Variante, der <span class="green">Grünen</span>, <span class="red">Rot</span> kann man ignorieren.
