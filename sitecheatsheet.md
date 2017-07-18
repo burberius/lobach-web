@@ -15,5 +15,6 @@
 |<span class="blue">A</span>|[Drone Gathering](http://de.sistersprobe.wikia.com/wiki/Drone_Gathering)|Faction: <span class="orange">Sentient</span> + DED 3/10 [Rogue Drone Asteroid Infestation](http://de.sistersprobe.wikia.com/wiki/Rogue_Drone_Asteroid_Infestation)|<span class="green">Spaceshuttle Wreck</span> <span class="red">Infested Station Ruins</span>||
 |<span class="orange">S</span>|[Haunted Yard](http://de.sistersprobe.wikia.com/wiki/Haunted_Yard)|Faction: <span class="green">Sentient</span> + Escalation: [Pulverize The Pioneers](http://de.sistersprobe.wikia.com/wiki/Pulverize_The_Pioneers)|||
 |<span class="orange">S</span>|[Mul-Zatah Monastery](http://de.sistersprobe.wikia.com/wiki/Mul-Zatah_Monastery)|<span class="green">DED 4/10</span> 1. Raum: Nur Schiffe abschießen, Overseer looten 2. Raum Inner Sanctum zerstören (Achtung: Neut und Stasis), Bookmark und raus|||
+|<span class="orange">S</span>|[Rogue Drone Asteroid Infestation](http://de.sistersprobe.wikia.com/wiki/Rogue_Drone_Asteroid_Infestation)|<span class="green">DED 3/10</span> sehr selten guten Loot|||
 
 Limitierungen bedeuten, dass bei es mehrere Varianten der Site gibt, laut Dokumentation ist der Faction aber nur in einer Variante, der <span class="green">Grünen</span>, <span class="red">Rot</span> kann man ignorieren.
