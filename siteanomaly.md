@@ -4,6 +4,7 @@
 |[Blood Hideaway](http://de.sistersprobe.wikia.com/wiki/Blood_Hideaway)|Faction: <span class="orange">Dark Blood</span>|||
 |[Blood Raider Forlorn Hideaway](http://de.sistersprobe.wikia.com/wiki/Blood_Raider_Forlorn_Hideaway)|Faction: <span class="orange">Dark Blood</span>|||
 |[Blood Raider Hidden Hideaway](http://de.sistersprobe.wikia.com/wiki/Blood_Raider_Hidden_Hideaway)|<span class="red">Nichts</span>|||
+|[Blood Refuge](http://de.sistersprobe.wikia.com/wiki/Blood_Refuge)|DED 4/10 [Mul-Zatah Monastery](http://de.sistersprobe.wikia.com/wiki/Mul-Zatah_Monastery)||hart|
 |[Drone Assembly](http://de.sistersprobe.wikia.com/wiki/Drone_Assembly)|Faction: <span class="orange">Sentient</span> + DED 3/10 [Rogue Drone Asteroid Infestation](http://de.sistersprobe.wikia.com/wiki/Rogue_Drone_Asteroid_Infestation)|<span class="green">Dirty Shipyard</span> <span class="red">Hollow Asteroid</span>||
 |[Drone Cluster](http://de.sistersprobe.wikia.com/wiki/Drone_Cluster)|Faction: <span class="orange">Sentient</span>|<span class="green">Spaceshuttle Cluster</span> <span class="red">Habitation Cluster</span>||
 |[Drone Gathering](http://de.sistersprobe.wikia.com/wiki/Drone_Gathering)|Faction: <span class="orange">Sentient</span> + DED 3/10 [Rogue Drone Asteroid Infestation](http://de.sistersprobe.wikia.com/wiki/Rogue_Drone_Asteroid_Infestation)|<span class="green">Spaceshuttle Wreck</span> <span class="red">Infested Station Ruins</span>||
