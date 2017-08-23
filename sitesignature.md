@@ -1,6 +1,6 @@
 |Name|Beschreibung|Level|
 |---|---|---|
-|[Blood Lookout](http://de.sistersprobe.wikia.com/wiki/Blood_Lookout)|Faction: <span class="orange">Dark Blood</span> + Bunker zerstören -> Escalation: [Following the Blood](http://de.sistersprobe.wikia.com/wiki/Following_the_Blood)||
+|[Blood Lookout](http://de.sistersprobe.wikia.com/wiki/Blood_Lookout)|Faction: <span class="orange">Dark Blood</span> + Bunker zerstören -> Escalation: [Following the Blood](http://de.sistersprobe.wikia.com/wiki/Following_the_Blood) ca. 8 Minuten||
 |[Blood Hideout](http://de.sistersprobe.wikia.com/wiki/Blood_Hideout)|Chapel zerstören -> Faction: <span class="orange">Dark Blood</span> + Escalation: [Frentex](http://de.sistersprobe.wikia.com/wiki/Frentex)||
 |[Blood Watch](http://de.sistersprobe.wikia.com/wiki/Blood_Watch)|Faction: <span class="orange">Dark Blood</span> + Escalation: [Medical Twilight](http://de.sistersprobe.wikia.com/wiki/Medical_Twilight) 1. Raum: Drohnen dann Corpior Militant Commander killen 2. Raum: Cathedral beschießen, Corpus Militant Supervisor killen, dann evtl Dark Blood|hart|
 |[Chemical Yard](http://de.sistersprobe.wikia.com/wiki/Chemical_Yard)|Faction: <span class="green">Sentient</span> + Escalation: [Hunting the Drudge Factory](http://de.sistersprobe.wikia.com/wiki/Hunting_the_Drudge_Factory)||
