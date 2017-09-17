@@ -1,5 +1,6 @@
 |Name|Beschreibung|Limitierung|
 |---|---|---|
+|[Blood Burrow](http://de.sistersprobe.wikia.com/wiki/Blood_Burrow)|nichts besonderes||
 |[Blood Den](http://de.sistersprobe.wikia.com/wiki/Blood_Den)|Faction: <span class="orange">Dark Blood</span> + DED 5/10 [Blood Raider Psychotropics Depot](http://de.sistersprobe.wikia.com/wiki/Blood_Raider_Psychotropics_Depot)||
 |[Blood Hideaway](http://de.sistersprobe.wikia.com/wiki/Blood_Hideaway)|Faction: <span class="orange">Dark Blood</span>||
 |[Blood Raider Forlorn Hideaway](http://de.sistersprobe.wikia.com/wiki/Blood_Raider_Forlorn_Hideaway)|Faction: <span class="orange">Dark Blood</span>||
