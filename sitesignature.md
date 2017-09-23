@@ -2,7 +2,7 @@
 |---|---|---|
 |[Blood Lookout](http://de.sistersprobe.wikia.com/wiki/Blood_Lookout)|Faction: <span class="orange">Dark Blood</span> + Bunker zerstören -> Escalation: [Following the Blood](http://de.sistersprobe.wikia.com/wiki/Following_the_Blood)|leicht, ca. 8 Minuten|
 |[Blood Hideout](http://de.sistersprobe.wikia.com/wiki/Blood_Hideout)|1. Raum, direkt zum Gate, 2. Raum Chapel zerstören -> Faction: <span class="orange">Dark Blood</span> + Escalation: [Frentex](http://de.sistersprobe.wikia.com/wiki/Frentex)|leicht, ca. 5 Minuten|
-|[Blood Vigil](http://de.sistersprobe.wikia.com/wiki/Blood_Vigil)|2. Raum 2-3 Forcefields zerstören, dann Battlestation beschießen, dann Dark Blood killen, markieren und raus raus|hart|
+|[Blood Vigil](http://de.sistersprobe.wikia.com/wiki/Blood_Vigil)|1. Raum Chapel zerstören, 2. Raum 2-3 Forcefields zerstören, dann Battlestation beschießen, dann Dark Blood killen, markieren und raus raus|hart|
 |[Blood Watch](http://de.sistersprobe.wikia.com/wiki/Blood_Watch)|Faction: <span class="orange">Dark Blood</span> + Escalation: [Medical Twilight](http://de.sistersprobe.wikia.com/wiki/Medical_Twilight) 1. Raum: Drohnen dann Corpior Militant Commander killen 2. Raum: Cathedral beschießen, Corpus Militant Supervisor killen, dann evtl Dark Blood|hart|
 |[Chemical Yard](http://de.sistersprobe.wikia.com/wiki/Chemical_Yard)|Faction: <span class="green">Sentient</span> + Escalation: [Hunting the Drudge Factory](http://de.sistersprobe.wikia.com/wiki/Hunting_the_Drudge_Factory)|leicht, ca. 8 Minuten|
 |[Desolate Site](http://de.sistersprobe.wikia.com/wiki/Desolate_Site)|Faction: <span class="green">Sentient</span> + Escalation: [Mare Sargassum](http://de.sistersprobe.wikia.com/wiki/Mare_Sargassum)||
