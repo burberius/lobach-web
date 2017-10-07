@@ -3,6 +3,7 @@
 |[Angel Burrow](http://de.sistersprobe.wikia.com/wiki/Angel_Burrow)|nichts besonderes||
 |[Angel Den](http://de.sistersprobe.wikia.com/wiki/Angel_Den)|Faction: <span class="orange">Domination</span> + DED 5/10 [Angel's Red Light District](http://de.sistersprobe.wikia.com/wiki/Angel%27s_Red_Light_District)|DED -> <span class="green">Light Missile</span> <span class="red">Heavy Missile</span>|
 |[Angel Forlorn Hideaway](http://de.sistersprobe.wikia.com/wiki/Angel_Forlorn_Hideaway)|Faction: <span class="orange">Domination</span>||
+|[Angel Forsaken Hideaway](http://de.sistersprobe.wikia.com/wiki/Angel_Forsaken_Hideaway)|Faction: <span class="orange">Domination</span>||
 |[Angel Hideaway](http://de.sistersprobe.wikia.com/wiki/Angel_Hideaway)|Faction: <span class="orange">Domination</span>||
 |[Angel Refuge](http://de.sistersprobe.wikia.com/wiki/Angel_Refuge)|DED 5/10 [Angel's Red Light District](http://de.sistersprobe.wikia.com/wiki/Angel%27s_Red_Light_District)||
 |[Blood Burrow](http://de.sistersprobe.wikia.com/wiki/Blood_Burrow)|nichts besonderes||
