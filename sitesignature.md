@@ -1,6 +1,7 @@
 |Name|Beschreibung|Level|
 |---|---|---|
 |[Angel Lookout](http://de.sistersprobe.wikia.com/wiki/Angel_Lookout)|Faction: <span class="orange">Domination</span> + Control Center zerstören -> Escalation: [Chasing the Dragon(H/L)](http://de.sistersprobe.wikia.com/wiki/Chasing_the_Dragon)|leicht, ca 8 Minuten|
+|[Angel Watch](http://de.sistersprobe.wikia.com/wiki/Angel_Watch)|1. Raum Bosse (Communications) anschießen, dann Militant Commander töten, 2. Raum Gist Drug Farm anschießen, dann Militant Superisor killen -> Faction: <span class="orange">Domination</span> + Eskalation: [The Nuclear Small Arms Project](http://de.sistersprobe.wikia.com/wiki/The_Nuclear_Small_Arms_Project)|leicht, ca 5 Minuten|
 |[Blood Lookout](http://de.sistersprobe.wikia.com/wiki/Blood_Lookout)|Faction: <span class="orange">Dark Blood</span> + Bunker zerstören -> Escalation: [Following the Blood](http://de.sistersprobe.wikia.com/wiki/Following_the_Blood)|leicht, ca. 8 Minuten|
 |[Blood Hideout](http://de.sistersprobe.wikia.com/wiki/Blood_Hideout)|1. Raum, direkt zum Gate, 2. Raum Chapel zerstören -> Faction: <span class="orange">Dark Blood</span> + Escalation: [Frentex](http://de.sistersprobe.wikia.com/wiki/Frentex)|leicht, ca. 5 Minuten|
 |[Blood Vigil](http://de.sistersprobe.wikia.com/wiki/Blood_Vigil)|1. Raum Chapel zerstören, 2. Raum 2-3 Forcefields zerstören, dann Battlestation beschießen, dann <span class="green">Dark Blood</span> killen, markieren und raus, Escalateion: [The Rewards of Devotion](http://de.sistersprobe.wikia.com/wiki/The_Rewards_of_Devotion)|hart|
