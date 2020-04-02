@@ -4,7 +4,7 @@
 |[Angel Den](http://de.sistersprobe.wikia.com/wiki/Angel_Den)|Faction: **Domination** + DED 5/10 [Angel's Red Light District](http://de.sistersprobe.wikia.com/wiki/Angel%27s_Red_Light_District)|DED -> **Light Missile** *Heavy Missile*|
 |[Angel Forlorn Hideaway](http://de.sistersprobe.wikia.com/wiki/Angel_Forlorn_Hideaway)|Faction: **Domination**||
 |[Angel Forsaken Hideaway](http://de.sistersprobe.wikia.com/wiki/Angel_Forsaken_Hideaway)|Faction: **Domination**||
-|[Angel Hideaway](http://de.sistersprobe.wikia.com/wiki/Angel_Hideaway)|Faction: *Domination**||
+|[Angel Hideaway](http://de.sistersprobe.wikia.com/wiki/Angel_Hideaway)|Faction: **Domination**||
 |[Angel Refuge](http://de.sistersprobe.wikia.com/wiki/Angel_Refuge)|DED 5/10 [Angel's Red Light District](http://de.sistersprobe.wikia.com/wiki/Angel%27s_Red_Light_District)||
 |[Blood Burrow](http://de.sistersprobe.wikia.com/wiki/Blood_Burrow)|nichts besonderes||
 |[Blood Den](http://de.sistersprobe.wikia.com/wiki/Blood_Den)|Faction: **Dark Blood** + DED 5/10 [Blood Raider Psychotropics Depot](http://de.sistersprobe.wikia.com/wiki/Blood_Raider_Psychotropics_Depot)||
