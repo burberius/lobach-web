@@ -15,3 +15,5 @@
 |[Drone Assembly](http://de.sistersprobe.wikia.com/wiki/Drone_Assembly)|Faction: <span class="orange">Sentient</span> + DED 3/10 [Rogue Drone Asteroid Infestation](http://de.sistersprobe.wikia.com/wiki/Rogue_Drone_Asteroid_Infestation)|<span class="green">Dirty Shipyard</span> <span class="red">Hollow Asteroid</span>|
 |[Drone Cluster](http://de.sistersprobe.wikia.com/wiki/Drone_Cluster)|Faction: <span class="orange">Sentient</span>|<span class="green">Spaceshuttle Cluster</span> <span class="red">Habitation Cluster</span>|
 |[Drone Gathering](http://de.sistersprobe.wikia.com/wiki/Drone_Gathering)|Faction: <span class="orange">Sentient</span> + DED 3/10 [Rogue Drone Asteroid Infestation](http://de.sistersprobe.wikia.com/wiki/Rogue_Drone_Asteroid_Infestation)|<span class="green">Spaceshuttle Wreck</span> <span class="red">Infested Station Ruins</span>|
+
+Limitierungen bedeuten das es mehrere Varianten der Site gibt, laut Dokumentation ist der Faction aber nur in einer Variante, der **fetten**, *italic* kann man ignorieren.
