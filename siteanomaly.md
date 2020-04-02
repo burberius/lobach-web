@@ -17,4 +17,4 @@
 |[Drone Gathering](http://de.sistersprobe.wikia.com/wiki/Drone_Gathering)|Faction: <span class="orange">Sentient</span> + DED 3/10 [Rogue Drone Asteroid Infestation](http://de.sistersprobe.wikia.com/wiki/Rogue_Drone_Asteroid_Infestation)|<span class="green">Spaceshuttle Wreck</span> <span class="red">Infested Station Ruins</span>|
 
 Limitierungen bedeuten das es mehrere Varianten der Site gibt, laut Dokumentation ist der Faction aber nur in einer Variante, der <span
-class="green">grün</span>, <span class="red">rot</span> kann man ignorieren.
+class="green">grünen</span>, <span class="red">rot</span> kann man ignorieren.
