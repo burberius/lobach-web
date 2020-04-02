@@ -20,6 +20,10 @@
   color: orange;
 }
 
+header h1 {
+  margin: 0 0 0 0;
+}
+
 header h1:before {
   content: "";
 }
